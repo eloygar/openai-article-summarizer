@@ -1,6 +1,9 @@
-# OpenAI Article Summarizer
 
-![Logo](./assets/logo.svg)
+<div style="display: flex; align-items: center; justify-content: space-between; margin: 0 auto; max-width: 500px;">
+    <h2>OpenAI Article Summarizer</h2>
+    <img src="./src/assets/logo.svg" alt="Logo" width="100" height="100">
+</div>
+
 
 ## Description
 
